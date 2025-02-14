@@ -4,7 +4,7 @@ My name is Göktürk, and I'm an Economics student at Istanbul University intere
 
 You can reach me via:
 - [LinkedIn](https://www.linkedin.com/in/gokturkcolak/)
-- E-mail: gokturkcolaktkd@gmail.com
+- gokturkcolaktkd@gmail.com
 <!--
 **gokturkcolak/gokturkcolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
