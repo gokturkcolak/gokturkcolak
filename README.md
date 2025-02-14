@@ -3,7 +3,7 @@
 My name is Göktürk, and I'm an Economics student at Istanbul University interested in Finance & Data Science.
 
 You can reach me via:
-- LinkedIn: [here](https://www.linkedin.com/in/gokturkcolak/)
+- [LinkedIn](https://www.linkedin.com/in/gokturkcolak/)
 - E-mail: gokturkcolaktkd@gmail.com
 <!--
 **gokturkcolak/gokturkcolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
