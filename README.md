@@ -1,7 +1,5 @@
 ## Hi!
 
-My name is Göktürk, and I'm an Economics student at Istanbul University interested in Finance & Data Science. I'm currently using R and Python (especially R) for my projects.
-
 You can reach me via:
 - [LinkedIn](https://www.linkedin.com/in/gokturkcolak/)
 - gokturkcolaktkd@gmail.com
